@@ -1,0 +1,7 @@
+.idea
+node_modules
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
